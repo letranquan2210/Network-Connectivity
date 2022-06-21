@@ -1,4 +1,4 @@
-# Network-Connetivity
+# Network-Connectivity
 Basic about CCNA
 
 
