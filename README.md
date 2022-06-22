@@ -8,5 +8,4 @@ The program need a Virtual machines, that using MS Windows host EVE-NGv2.5.
 ![image](https://user-images.githubusercontent.com/45866310/164607677-4441b453-5bff-474b-b48e-1db72c4b7d00.png)
 
 
-Model had 3 zone:
-  - Inside-Host: is top secret data, 
+
